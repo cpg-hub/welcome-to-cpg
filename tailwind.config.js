@@ -17,6 +17,7 @@ module.exports = {
       },
       fontFamily: {
         playfair: ['"Playfair Display"', 'serif'],
+        inter: ['Inter', 'sans-serif'],
       },
       keyframes: {
         rotate: {
